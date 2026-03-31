@@ -1,6 +1,6 @@
 # Natural Language Understanding: Intent Classification & Slot Filling
 
-TensorFlow/Keras implementation of an end-to-end NLP pipeline performing both **intent classification** and **token-level slot extraction** on natural language flight queries.
+TensorFlow/Keras implementation of an end-to-end NLU pipeline performing both **intent classification** and **token-level slot extraction** on natural language flight queries.
 
 ## Project Overview
 
